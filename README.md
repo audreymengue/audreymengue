@@ -1,13 +1,13 @@
 ### Hi everyone!👋 I am Audrey Mengue
 
 
-- 🔭 I’m a software engineer
+- 🔭 I’m a software engineer.
 
-- 🌱 I specialize in FrontEnd and Cloud
+- 🌱 I specialize in FrontEnd and Cloud.
 
-- 👯 I’m looking to contribute to open source projects
+- 👯 I’m an Open Source contributor a tech speaker and a mentor.
 
-- 💬 Ask me about JavaScript, Azure, Java
+- 💬 Ask me about JavaScript, TypeScript, ReactJS, NextJS, Ghost CMS, HandlebarsJS, Azure and passionate about learning.
 
 - 📫 How to reach me:
   - [![Twitter: la_mengs](https://img.shields.io/twitter/follow/la_mengs?style=social)](https://twitter.com/la_mengs)
