@@ -1,9 +1,9 @@
 ### Hi everyone!👋 I am Audrey Mengue
 
 
-- 🔭 I’m a software engineer.
+- 🔭 I’m a software engineer and a passionate volunteer.
 
-- 🌱 I specialize in FrontEnd and Cloud.
+- 🌱 I specialize in FrontEnd, Cloud and a curious fullstack(React and node).
 
 - 👯 I’m an Open Source contributor a tech speaker and a mentor.
 
